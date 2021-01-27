@@ -1,3 +1,7 @@
 # git-essentials
-# my edit
-another change
+<<<<<<< HEAD
+
+=======
+
+##My Test
+>>>>>>> Dev
